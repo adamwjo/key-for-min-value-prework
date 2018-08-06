@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
     if value <= name_hash[0] && name_hash[1] && name_hash[3]
       lowest_num = key
     end
-    lowest_num
   end 
+  lowest_num
 end
